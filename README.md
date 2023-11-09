@@ -1,16 +1,15 @@
-### Hi there 👋
+Hey! I'm Aniket Mankar 👋 Welcome to my GitHub profile :) I'm Aniket, a Management Information System(MIS) student currently living in Dallas, TX.
 
-<!--
-**aniketbmankar/aniketbmankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on the Prediction of Movies based on sentiment analysis
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Reinforcement Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about the Cool Visualizations I built.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I like to read philosophy.
+
+🤝 Connect with me on LinkedIn https://www.linkedin.com/in/aniketmankar63/🎈
+
+In my free time, I like to cook, clean my house, sleep, and read. This is where I keep my code and projects. Feel free to look around and contact me if you have questions
